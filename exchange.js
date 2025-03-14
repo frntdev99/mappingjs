@@ -23,7 +23,7 @@ const otherexchangeRates = {
 
     "BSD": 1.00,    // 1 BSD = 1.00 USD
 
-    "BHD": 2.63     // 1 BHD = 2.63 USD
+    "BHD": 2.63,     // 1 BHD = 2.63 USD
 
     "BDT": 0.012,  // Bangladeshi Taka
 
